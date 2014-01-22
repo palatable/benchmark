@@ -1,4 +1,4 @@
-benchmark
+benchmark [![Build Status](https://travis-ci.org/jnape/Dynamic-Collections.png?branch=master)](https://travis-ci.org/jnape/Dynamic-Collections)
 =========
 
 Benchmarking in Java at its simplest.
